@@ -1,0 +1,7 @@
+pygame
+opencv-python
+# cv2
+torch
+numpy
+tensorboardX
+# spyder
