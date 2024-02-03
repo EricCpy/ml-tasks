@@ -7,9 +7,9 @@ Created on Thu Dec 14 11:40:41 2023
 
 # -----------------------------------------------------------------------------
 # -----------------------------------------------------------------------------
-# currentWorkingDirectory = "C:\\(...)\\Lec6_ Geo-Clustering\\src"
+# currentWorkingDirectory = "D:/Zeug/Unizeug/Master_DataScience/1.Semester/Fortgeschrittene Softwaretechnik/ML-Tasks/Task6/0_Exercise_env/main.py"
 # Docker:
-# currentWorkingDirectory = "/app"
+currentWorkingDirectory = "./Task6/0_Exercise_env/"
 
 # -----------------------------------------------------------------------------
 import os

@@ -5,5 +5,5 @@ factor-analyzer
 scikit-learn
 matplotlib
 seaborn
-spyder
+# spyder
 # xgboost

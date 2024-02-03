@@ -1,0 +1,2 @@
+# Answer
+The code performs customer segmentation with geo-visualization using factor analysis, clustering and an effect analysis table. The main function merges socio-demographic and data mart datasets, applies data transformations and performs one-hot encoding. After factor analysis and clustering, it generates an effect analysis table and visualizes the clustered data on a map.
